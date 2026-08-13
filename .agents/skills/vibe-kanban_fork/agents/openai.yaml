@@ -1,0 +1,6 @@
+interface:
+  display_name: "Vibe Kanban Fork"
+  short_description: "Repo-specific patterns and workflows for vibe-kanban_fork"
+  default_prompt: "Use the vibe-kanban_fork repo skill to follow existing architecture, testing, and workflow conventions."
+policy:
+  allow_implicit_invocation: true
